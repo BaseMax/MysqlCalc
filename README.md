@@ -3,9 +3,9 @@
 ## MCalc Exmaple
 
 ```sql
-select mcalc('5+5*2/2') as valu
-select mcalc('5+cos(0)') as valu
-select mcalc('5+pi*2)') as valu
+select mcalc('5+5*2/2') as valu;
+select mcalc('5+cos(0)') as valu;
+select mcalc('5+pi*2)') as valu;
 ```
 
 # MariaDB-MySQL Calculator 
