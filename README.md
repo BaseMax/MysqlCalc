@@ -1,5 +1,7 @@
 # MariaDB-MySQL Calc
 
+# MariaDB-MySQL Calculator 
+
 A MySQL/MariaDB module and plugin to calculate the formula and calculate mathematical expression.
 
 # MariaDB-Mysql UDF
