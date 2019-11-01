@@ -46,6 +46,9 @@
 #include <string>
 #include <vector>
 
+// Evaluation, Math Calc
+#include "evaluation.h"
+
 // For MySQL
 #include "mysql.h"
 // For MariaDB
