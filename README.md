@@ -13,7 +13,7 @@ Extend your MySQL server with additional functions
 ### Compiling
 
 ```
-gcc -shared -o mcalc.so mcalc.cc -std=c++11 -fPIC
+gcc -shared -o mcalc.so mcalc.cc evaluation.c -std=c++11 -fPIC
 cd sql
 make mcalc.o
 ```
