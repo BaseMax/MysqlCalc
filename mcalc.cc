@@ -75,6 +75,7 @@ extern "C" double mcalc(UDF_INIT *, UDF_ARGS *args, char *result, unsigned long 
 		*is_null = 1;
 		return 0;
 	}
-	double val=(double) strlen(input);
-	return val;
+	// double r=(double) strlen(input);
+	double r = te_interp(input, 0);
+	return r;
 }
