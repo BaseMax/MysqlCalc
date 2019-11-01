@@ -19,7 +19,7 @@ make mcalc.o
 ### Installing module
 
 ```sql
-CREATE FUNCTION mcalc RETURNS STRING SONAME "mcalc.so";
+CREATE FUNCTION mcalc RETURNS double SONAME "mcalc.so";
 ```
 
 ### Uninstalling module
