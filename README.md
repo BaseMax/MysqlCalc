@@ -1,4 +1,4 @@
-# MariaDB-MySQL Calc
+# M-Calc, MCalc
 
 # MariaDB-MySQL Calculator 
 
@@ -29,6 +29,8 @@ CREATE FUNCTION mcalc RETURNS double SONAME "mcalc.so";
 ```sql
 DROP FUNCTION mcalc;
 ```
+
+# MariaDB-MySQL Calc
 
 ### Add module as mysql plugins
 
