@@ -45,7 +45,7 @@ SHOW VARIABLES LIKE 'plugin_dir';
 - https://github.com/BaseMax/FirstMysqlUDF
 - https://github.com/MariaDB/server
 - https://github.com/mysql/mysql-server
-- tinyexpr, c calculator, c expression calc
+- tinyexpr, c calculator, c expression calc (Lewis Van Winkle)
 
 ---------
 
